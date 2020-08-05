@@ -4,4 +4,6 @@ This is a practice project to apply the concepts learned on [Pluralsight's Unity
 
 All models and assets are provided by Pluralsight Company to be used on the tutorial project.
 
+These assets should not be used for any monetized project.
+
 ![game Demo](Demo/gameDemo.gif)
