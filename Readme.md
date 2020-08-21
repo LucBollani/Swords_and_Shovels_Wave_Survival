@@ -6,4 +6,4 @@ All models and assets are provided by Pluralsight Company to be used on the tuto
 
 These assets should not be used for any monetized project.
 
-![game Demo](Demo/gameDemo.gif)
+[![game Demo](Demo/gameDemo.gif)](https://youtu.be/5ZxH6iZTM94)
